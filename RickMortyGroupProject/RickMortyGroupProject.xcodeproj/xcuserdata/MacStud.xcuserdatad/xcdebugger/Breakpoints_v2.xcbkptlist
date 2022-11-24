@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyGroupProject/Characters/CharactersViewController.swift"
+            timestampString = "690986437.246066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__deallocating_deinit"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974870.764654"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RickMortyGroupProject.CharactersViewController"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974870.770143"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RickMortyGroupProject.CharactersViewController"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974870.773319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;RickMortyGroupProject.CharactersViewController&gt;"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974870.776287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;RickMortyGroupProject.CharactersViewController&gt;"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974870.780561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyGroupProject/Characters/CharactersViewController.swift"
+            timestampString = "690986437.246905"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyGroupProject/Characters/CharactersViewController.swift"
+            timestampString = "690986437.2471091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__deallocating_deinit"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974892.5078551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RickMortyGroupProject.CharactersViewController"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974892.510203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RickMortyGroupProject.CharactersViewController"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974892.512677"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;RickMortyGroupProject.CharactersViewController&gt;"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974892.514708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyGroupProject.CharactersViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;RickMortyGroupProject.CharactersViewController&gt;"
+                  moduleName = "RickMortyGroupProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacStud/Desktop/RickMortyGroupProject/RickMortyGroupProject/Characters/CharactersViewController.swift"
+                  timestampString = "690974892.516598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyGroupProject/Characters/CharactersViewController.swift"
+            timestampString = "690986437.24728"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
